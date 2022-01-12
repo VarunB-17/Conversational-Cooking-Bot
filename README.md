@@ -5,7 +5,7 @@ A university project where the main objective is to develop a conversational coo
          * Prolog---> Knowledge Base
          * Google Cloud's DialogFlow -> for cloud services
          * Docker---> developing/running software
-         * HTML-----> structuring the the software on the web
+         * HTML-----> structuring the software on the web
 This project is split into three parts which are :
         
          * Recipe Instruction
