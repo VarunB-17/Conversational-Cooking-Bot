@@ -1,5 +1,5 @@
 # Conversational-Agent-MAS
-A university project where the main objective is to develop a conversational agent by making use of resources such as :
+A university project where the main objective is to develop a conversational cooking agent by making use of resources such as :
 
          * GOAL-----> Goal Oriented Agent Language
          * Prolog---> Knowledge Base
