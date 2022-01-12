@@ -4,3 +4,6 @@
 ###### Cooking Assistent----------->  https://socialrobotics.atlassian.net/wiki/spaces/CASS/overview
 ###### Social Interaction Cloud---->  https://socialrobotics.atlassian.net/wiki/spaces/CBSR/overview
 ###### Google DialogFlow----------->  https://cloud.google.com/dialogflow
+###### Docker --------------------->  https://www.docker.com/products/docker-desktop  
+(In case you get a WSL2 installation is incomplete -> click the given link and install and execute the .msi file) (file can also be downloaded as a file in the Course Information map)
+  
