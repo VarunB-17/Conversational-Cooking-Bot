@@ -1,1 +1,1 @@
-# CookingBot
+# basic-bot
